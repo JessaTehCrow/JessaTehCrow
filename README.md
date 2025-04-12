@@ -4,7 +4,7 @@ Here's a little bit about myself
 
 ### Who am i
 
-I go by the name `Jessa` on the interwebs, i'm a 20 year old, selftaught software developer. 
+I go by the name `Jessa` on the interwebs, i'm a 22 year old, selftaught software developer. 
 I have been programming since 2014 and never stopped since
 
 I generally work on things i think are fun, or interesting. This being often useless, or only useful for myself.
